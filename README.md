@@ -1,3 +1,3 @@
 # how-to-doc
-Learn how to doc my projects
+Learn how to doc my projects \
 test
